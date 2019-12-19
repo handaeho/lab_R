@@ -1,0 +1,21 @@
+o. 기상청 날씨누리: 과거 날씨 지상관측 자료
+http://www.weather.go.kr/weather/climate/past_table.jsp
+
+o. 국민건강보험 건강검진 정보
+https://www.data.go.kr/dataset/15007122/fileData.do
+
+o. 고속도로 공공데이터 포털 (고속도로 영업소간 통행량)
+http://data.ex.co.kr/dataset/datasetList/list?pn=1&CATEGORY=TR
+
+o. 통계청 MDIS(MicroData Integrated Service)
+https://mdis.kostat.go.kr/index.do
+
+o. 국민건강보험 공공데이터 개방서비스
+http://nhiss.nhis.or.kr/op/it/index.do
+
+o. 공공데이터 포털
+https://data.go.kr/
+
+o. 서울 열린데이터 광장
+https://data.seoul.go.kr/
+
